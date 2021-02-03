@@ -1,0 +1,58 @@
+* {
+  margin: 10px;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50px;
+}
+
+.banner {
+  width: 100%;
+  height: 100;
+}
+
+.parag {
+  width: 50%;
+  padding: 10px;
+}
+
+.pic {
+  width: 500px;
+  height: 500px;
+}
+
+.table {
+  border: 2px solid black;
+  border-spacing: 20px;
+}
+
+h3,
+h2 {
+  color: wheat;
+  font-size: 1.5rem;
+  text-align: center;
+  background-color: chocolate;
+  padding: 30px;
+  border: dotted;
+  border-radius: 40px;
+  border-width: 10 px;
+  border-color: yellow;
+  margin: 30px;
+  outline: 0.2rem solid black;
+  outline-offset: -20px;
+}
+
+body {
+  font-family: monospace;
+  line-height: 1.5 em;
+}
+ul li a{
+  text-decoration: none;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  color: brown;
+  display: block;
+  margin: 5px;
+}
